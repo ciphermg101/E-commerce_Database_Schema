@@ -39,7 +39,7 @@ This project defines a modular, scalable MySQL-based database schema for managin
 
 Below is the Entity-Relationship Diagram that shows the connection between all tables in the normalized database schema:
 
-![E-Commerce ERD](path/to/updated-erd.png) <!-- Replace with the actual path to your ERD image -->
+![E-Commerce ERD](Ecommerce_ERD.png)
 
 ---
 
