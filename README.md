@@ -88,8 +88,16 @@ Each table has been designed to follow best practices in relational database des
 2. Open your MySQL client and run the provided SQL script:
 
 ```sql
-SOURCE path/to/ecommercedb.sql;
+SOURCE path/to/ecommercedb.sql
+```
 
+---
 
 ## 🤝 Collaborators
-1. Steve	Asumba
+
+This project was created and maintained by the following collaborators:
+
+- **Steve Asumba** - Contributor
+- **Christopher Mbuthia** - Developer
+
+---
