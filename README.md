@@ -89,3 +89,7 @@ Each table has been designed to follow best practices in relational database des
 
 ```sql
 SOURCE path/to/ecommercedb.sql;
+
+
+## 🤝 Collaborators
+1. Steve	Asumba
